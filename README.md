@@ -203,7 +203,7 @@ docker-compose -f docker-compose.prod.yml up --build
 
 ## 📄 License
 
-This project is licensed under the MIT License.
+This project is licensed under the Hemant Shinde.
 
 ## 📞 Support
 
@@ -212,4 +212,5 @@ For support and questions, please open an issue in the repository.
 ---
 
 **Built with ❤️ for better healthcare management**
+
 # Hospital-Management-System
